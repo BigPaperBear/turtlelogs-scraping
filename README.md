@@ -58,7 +58,7 @@ Analyze rankings without touching the console. The popup builds a **tier list (S
 ## Install (Chrome/Edge/Brave)
 1. **Download / clone** this repo.
 2. Open `chrome://extensions` → toggle **Developer mode** (top-right).
-3. Click **Load unpacked** → select the repo folder (the one containing `manifest.json`).
+3. Click **Load unpacked** → select the `turtlogs-analyzer-extension` folder (the one containing `manifest.json`).
 4. You should see **TurtLogs Analyzer** appear in the list.
 
 ## Use
