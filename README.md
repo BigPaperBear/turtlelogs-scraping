@@ -10,7 +10,7 @@ aggregate the results, and show analytics in a draggable/sortable overlay or as 
 - Draggable overlay with sortable tables (by count, avg, median)
 - (Extension) Tier list popup with Popularity / Avg / Median / Combined metrics
 
-Option A — Quick use (console script)
+## Option A — Quick use (console script)
 1. Open [turtlogs.com PvE ranking](https://www.turtlogs.com/pve/ranking).
 2. Press **F12** to open Developer Tools → Console.
 3. Copy the content of `turtlogs_scraping.js` and paste it into the console.
